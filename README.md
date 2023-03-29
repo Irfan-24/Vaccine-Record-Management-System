@@ -1,2 +1,6 @@
 # Vaccine Record Management System
- This project is a Vaccine Record Management System that has been specifically designed for use in a Pediatric Clinic.
+This project is a Vaccine Record Management System that has been specifically designed for use in a Pediatric Clinic. The system comes with several user-friendly features, such as search and sort functionalities, to make it easy for users to find information quickly and efficiently. Additionally, the system is equipped with mobile alerts that notify patients of vaccination dates and appointment reminders via email.
+
+The Vaccine Record Management System has been built to store patient information in a database, making it easier to access and manage data. The system is also equipped with a sleek and easy-to-use Graphical User Interface (GUI), which enables seamless operation and makes the entire process straightforward.
+
+This project is an excellent solution for Pediatric Clinics looking for a reliable and efficient system for managing vaccine records. The system's user-friendly features, search and sort functionalities, mobile alerts, and easy-to-use interface make it an excellent choice for any pediatric clinic.
